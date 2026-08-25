@@ -12,7 +12,8 @@ A lightweight bash script that generates stylized ASCII art from any text input 
 ### 1. Prerequisites
 You must have `figlet` installed on your Linux distribution. (eg. ``sudo apt install figlet``, for Ubuntu/Debian)
 ### 2. Clone the repository  
-```bash git clone https://github.com/tudorioan1/ascii_art_generator```
+```bash git clone https://github.com/tudorioan1/ascii_art_generator
+```
 ### 3. Enter the directory  
 ```cd ascii_art_generator```
 
