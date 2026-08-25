@@ -28,4 +28,5 @@ chmod +x ascii_art.sh
 ./ascii_art.sh "<Your Text Here>"
 ```
 📝 Note
+
 Ensure your terminal window is large enough to display the generated ASCII art without line wrapping for the best visual experience!
