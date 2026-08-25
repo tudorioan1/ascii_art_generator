@@ -5,6 +5,5 @@ A lightweight bash script that generates stylized ASCII art from any text input 
 ## 🚀 Quick Start
 
 ### 1. Prerequisites
-You must have `figlet` installed on your Linux distribution. (eg. ```bash  
-sudo apt update && sudo apt install figlet -y)
+You must have `figlet` installed on your Linux distribution. (eg. ``bash  sudo apt install figlet``, for Ubuntu/Debian)
 
